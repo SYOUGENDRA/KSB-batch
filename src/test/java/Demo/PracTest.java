@@ -11,6 +11,7 @@ public class PracTest {
 		
 		
 		System.out.println("KTM");
-		System.out.println("Royal");
-	}
+		System.out.println("Royal"); 
+	}// ok mamma one more doubt
+	
 }
