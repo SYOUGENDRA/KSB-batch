@@ -11,5 +11,6 @@ public class PracTest {
 		
 		
 		System.out.println("KTM");
+		System.out.println("Royal");
 	}
 }
