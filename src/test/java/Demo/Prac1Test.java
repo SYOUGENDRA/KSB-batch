@@ -11,6 +11,7 @@ public class Prac1Test {
 		
 		
 		System.out.println("Audi");
+		System.out.println("BMW");
 	}
 
 }
