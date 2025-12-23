@@ -12,7 +12,7 @@ public class Prac1Test {
 		
 		
 		System.out.println("BMW");
-		
+		System.out.println("bmw11");
 		System.out.println("Benz");
 	}
 
